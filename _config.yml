@@ -1,0 +1,28 @@
+remote_theme : StartBootstrap/startbootstrap-clean-blog-jekyll
+
+title:              Dr.Park Blog
+email:              dr.hyejin.park@gmail.com
+description:        Sweet data science
+author:             Hyejin Park
+baseurl:            ""
+url:                "https://hyejin-park.github.io"
+
+# Social Profiles
+# twitter_username:   SBootstrap
+github_username:    hyejin-park
+# facebook_username:  StartBootstrap
+instagram_username:  dr.hyejin.park
+linkedin_username:  hyejin-park-857b7aa7
+
+# Add your google-analytics ID here to activate google analytics
+google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
+
+# Build settings
+markdown:           kramdown
+paginate:           5
+paginate_path:      "/posts/page:num/"
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-sitemap ## Uncomment this line to silently generate a sitemaps.org compliant sitemap for your Jekyll site
+  
