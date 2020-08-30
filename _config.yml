@@ -1,8 +1,8 @@
 remote_theme : StartBootstrap/startbootstrap-clean-blog-jekyll
 
-title:              Dr.Park Blog
+title:              Clean Blog
 email:              dr.hyejin.park@gmail.com
-description:        Sweet data science
+description:        Sweet Life as a Data Scientist
 author:             Hyejin Park
 baseurl:            ""
 url:                "https://hyejin-park.github.io"
