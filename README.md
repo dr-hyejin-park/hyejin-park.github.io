@@ -1,2 +1,2 @@
 # hyejin-park.github.io
-Sweet Data Science
+How Sweet Data Science & Machine Learning are
